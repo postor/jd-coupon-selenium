@@ -1,0 +1,1 @@
+module.exports = `return JSON.stringify($('.p-img a').map((i,x)=>x.href).toArray())`
